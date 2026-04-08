@@ -44,7 +44,7 @@ To use these scripts, you will need a Linux/Unix-based environment. Specific scr
 Clone the repository and make the scripts executable:
 
 ```bash
-git clone [https://github.com/yourusername/fun-with-bash.git](https://github.com/yourusername/fun-with-bash.git)
+git clone https://github.com/mtepenner/fun-with-bash.git
 cd fun-with-bash
 chmod +x *.sh
 ```
